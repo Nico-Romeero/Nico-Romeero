@@ -1,4 +1,4 @@
-<h1 align="center">Nicolas Romero - Front End Developer || QA Analyst</h1>
+<h1 align="center">Nicolas Romero - Front End Developer || QA</h1>
 
 
 🔭 I’m currently working on personal and collaborative projects
