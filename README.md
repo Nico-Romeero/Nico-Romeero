@@ -1,4 +1,4 @@
-<h1 align="center">Nicolas Romero - Software Developer</h1>
+<h1 align="center">Nicolas Romero - Software Developer || QA Automation</h1>
 
 
 
